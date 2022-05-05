@@ -1,0 +1,40 @@
+body {
+    /* background-color: rgb(50, 108, 139); */
+    background:linear-gradient(to right top,rgb(137, 137, 194),rgb(102, 197, 200),rgb(219, 128, 225))
+}
+
+ul {
+    list-style-type: none;
+}
+
+.movie-card a {
+    color: black;
+    font-size: large;
+}
+
+.movie-card a:hover {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(238, 241, 238);
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btn {
+    font-size: 20px;
+}
+
+.form-control {
+    height: 50px;
+    border-radius: 10px;
+}
+
+.form {
+    background: linear-gradient(to right top,rgb(137, 137, 194),rgb(102, 197, 200),rgb(219, 128, 225));
+    height: 180px;
+}
